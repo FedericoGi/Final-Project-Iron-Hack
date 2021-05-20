@@ -72,7 +72,7 @@ The result achieved with the linear regression has been already positive.
 
 ## Insights using Tableau
 
-I created a Tableau Public story that can be viewes [here](https://public.tableau.com/profile/federico.giuliani#!/vizhome/1987CarmarketsVSTodaysElectricVehicles/PowertrainEV?publish=yes)
+I created a Tableau Public story that can be view [here](https://public.tableau.com/profile/federico.giuliani#!/vizhome/1987CarmarketsVSTodaysElectricVehicles/PowertrainEV?publish=yes)
 Within the tableau folder you can find more charts and visual [here]
 
 ## Conclusion
