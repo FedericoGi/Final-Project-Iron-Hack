@@ -13,3 +13,6 @@ We used Tableau to create a story that is engaging and delivers all insights. Th
 
 
 ![Picture](https://github.com/FedericoGi/Final-Project-Iron-Hack/blob/main/2.%20Tableau%20%2B%20Presentation%20/Prices%20and%20Brands%20over%20time%20.png)
+
+
+![Picture](https://github.com/FedericoGi/Final-Project-Iron-Hack/blob/main/2.%20Tableau%20%2B%20Presentation%20/Price%20Correlation.png)
